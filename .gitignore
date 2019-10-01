@@ -1,3 +1,9 @@
+# Common MacOS temporary files
+*.db
+*.DS_Store
+*.swp
+*.tmp
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
